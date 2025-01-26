@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-const int N = 1e5 + 10;
+const int N = 1e5 + 5;
 int q[N];
 
 void quick_sort(int q[], int l, int r)
